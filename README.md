@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pagrochowski
+- 👋 Hi, I’m Piotr Grochowski @pagrochowski
 - 👀 I’m interested in anything AI
 - 🌱 I’m currently learning Python / Machine Learning
 - 💞️ I’m looking to collaborate on automation projects
