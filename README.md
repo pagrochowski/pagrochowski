@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Piotr Grochowski @pagrochowski
-- 👀 I’m interested in anything AI
+- 👀 I’m interested in AI and automation. Let the robots do the work!
 - 🌱 I’m currently learning Python / Machine Learning
 - 💞️ I’m looking to collaborate on automation projects
 - 📫 How to reach me: email pagrochowski@gmail.com
